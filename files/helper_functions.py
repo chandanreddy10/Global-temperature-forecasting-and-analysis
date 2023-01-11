@@ -167,7 +167,13 @@ def individual_pie_chart(year,country):
     mexplode = [0.02,0.03,0.04,0.02,0.02,0.02]
     x = [value for value in ranked_factors.values()]
     labels =[label for label in ranked_factors.keys()]
-    a,b,autotexts = ax.pie(x=x,explode=mexplode,labels=labels,autopct='%.1f%%',
+    X=[]
+    for val in x:
+        if val <0:
+            X.append(0)
+        else:
+            X.append(val)
+    a,b,autotexts = ax.pie(x=X,explode=mexplode,labels=labels,autopct='%.1f%%',
     colors=['#243763','#850000','#285430','#5837D0','#562B08','#AC4425'])
     for autotext in autotexts:
         autotext.set_color('white')
