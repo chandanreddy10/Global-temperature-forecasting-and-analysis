@@ -1,0 +1,239 @@
+country,temp,continent
+0,0,0
+Afghanistan,3.32,Asia
+Åland,3.01,Europe
+Albania,1.97,Europe
+Algeria,2.86,Africa
+American Samoa,1.43,
+Andorra,2.75,Europe
+Angola,1.61,Africa
+Anguilla,1.91,
+Antarctica,1.05,
+Antigua and Barbuda,1.86,
+Argentina,1.11,South America
+Armenia,2.38,Asia
+Aruba,1.31,South America
+Australia,1.40,Oceania
+Austria,2.90,Europe
+Azerbaijan,2.57,Asia
+Bahamas,1.53,North America
+Bahrain,3.13,Asia
+Baker Island,1.22,Asia
+Bangladesh,0.90,Asia
+Barbados,1.66,
+Belarus,3.16,Europe
+Belgium,2.84,Europe
+Belize,1.23,North America
+Benin,1.82,Africa
+Bhutan,1.25,Asia
+Bolivia,0.65,South America
+"Bonaire, Saint Eustatius and Saba",1.43,South America
+Bosnia and Herzegovina,2.61,Europe
+Botswana,1.38,Africa
+Brazil,1.70,South America
+British Virgin Islands,1.88,
+Bulgaria,2.01,Europe
+Burkina Faso,1.79,Africa
+Burma,0.99,Asia
+Burundi,1.90,Africa
+Cambodia,1.05,Asia
+Cameroon,1.61,Africa
+Canada,3.64,North America
+Cape Verde,2.09,
+Cayman Islands,1.47,
+Central African Republic,1.78,Africa
+Chad,2.07,Africa
+Chile,0.96,South America
+China,2.09,Asia
+Christmas Island,1.60,
+Colombia,1.23,South America
+Comoros,1.92,
+Congo,1.47,Africa
+Congo (Democratic Republic of the),1.70,Africa
+Costa Rica,1.60,North America
+Côte d'Ivoire,1.80,Africa
+Croatia,2.82,Europe
+Cuba,1.46,North America
+Curaçao,1.32,South America
+Cyprus,1.92,Asia
+Czech Republic,2.73,Europe
+Denmark,3.56,North America
+Denmark (Europe),2.86,Europe
+Djibouti,2.29,Africa
+Dominica,1.75,North America
+Dominican Republic,1.67,North America
+Ecuador,1.31,South America
+Egypt,2.03,Africa
+El Salvador,1.41,North America
+Equatorial Guinea,1.48,Africa
+Eritrea,2.29,Africa
+Estonia,3.01,Europe
+Ethiopia,2.19,Africa
+Falkland Islands (Islas Malvinas),1.37,South America
+Faroe Islands,1.74,
+Federated States of Micronesia,1.79,
+Fiji,1.30,Oceania
+Finland,3.03,Europe
+France,2.60,
+France (Europe),2.77,Europe
+French Guiana,1.85,South America
+French Polynesia,1.58,
+French Southern and Antarctic Lands,1.67,
+Gabon,1.47,Africa
+Gambia,1.86,Africa
+Gaza Strip,2.05,Asia
+Georgia,2.10,Asia
+Germany,2.81,Europe
+Ghana,1.75,Africa
+Greece,1.78,Europe
+Greenland,3.57,North America
+Grenada,1.62,
+Guadeloupe,1.83,North America
+Guam,1.24,
+Guatemala,1.22,North America
+Guernsey,2.50,Europe
+Guinea,1.80,Africa
+Guinea-Bissau,1.85,Africa
+Guyana,1.62,South America
+Haiti,1.54,North America
+Heard Island and McDonald Islands,1.49,
+Honduras,1.44,North America
+Hong Kong,0.83,Asia
+Hungary,2.55,Europe
+Iceland,2.37,Europe
+India,1.44,Asia
+Indonesia,1.21,Asia
+Iran,3.52,Asia
+Iraq,2.54,Asia
+Ireland,2.03,Europe
+Isle of Man,2.30,Europe
+Israel,2.03,Asia
+Italy,2.64,Europe
+Jamaica,1.46,North America
+Japan,1.66,Asia
+Jersey,2.50,Europe
+Jordan,2.10,Asia
+Kazakhstan,2.48,Asia
+Kenya,1.86,Africa
+Kingman Reef,1.71,
+Kiribati,1.73,
+Kuwait,2.86,Asia
+Kyrgyzstan,2.47,Asia
+Laos,0.96,Asia
+Latvia,3.05,Europe
+Lebanon,1.97,Asia
+Lesotho,1.17,Africa
+Liberia,1.81,Africa
+Libya,2.54,Africa
+Liechtenstein,2.83,Europe
+Lithuania,2.98,Europe
+Luxembourg,2.83,Europe
+Macau,0.79,Asia
+Macedonia,2.03,Europe
+Madagascar,1.93,Africa
+Malawi,1.94,Africa
+Malaysia,1.27,Asia
+Mali,1.94,Africa
+Malta,2.74,
+Martinique,1.75,North America
+Mauritania,2.28,Africa
+Mauritius,2.03,Africa
+Mayotte,1.89,
+Mexico,1.58,North America
+Moldova,2.38,Europe
+Monaco,2.76,Europe
+Mongolia,2.92,Asia
+Montenegro,2.14,Europe
+Montserrat,1.85,
+Morocco,2.71,Africa
+Mozambique,1.73,Africa
+Namibia,1.51,Africa
+Nepal,1.65,Asia
+Netherlands,2.89,Europe
+Netherlands (Europe),2.92,Europe
+New Caledonia,1.81,Oceania
+New Zealand,0.97,Oceania
+Nicaragua,1.55,North America
+Niger,2.27,Africa
+Nigeria,1.88,Africa
+Niue,1.38,
+North Korea,2.44,Asia
+Northern Mariana Islands,1.24,
+Norway,3.15,Europe
+Oman,2.96,Asia
+Pakistan,2.72,Asia
+Palau,0.91,
+Palestina,1.71,
+Palmyra Atoll,1.72,
+Panama,1.52,North America
+Papua New Guinea,1.24,Oceania
+Paraguay,1.18,South America
+Peru,0.95,South America
+Philippines,0.97,Asia
+Poland,2.79,Europe
+Portugal,2.32,Europe
+Puerto Rico,1.84,North America
+Qatar,3.30,Asia
+Reunion,2.00,Africa
+Romania,2.18,Europe
+Russia,3.39,Asia
+Rwanda,1.87,Africa
+Saint Barthélemy,1.91,
+Saint Kitts and Nevis,1.83,
+Saint Lucia,1.66,
+Saint Martin,1.91,
+Saint Pierre and Miquelon,2.35,South America
+Saint Vincent and the Grenadines,1.65,
+Samoa,1.41,Oceania
+San Marino,2.86,Europe
+Sao Tome and Principe,1.54,
+Saudi Arabia,2.58,Asia
+Senegal,1.87,Africa
+Serbia,2.27,Europe
+Seychelles,1.80,
+Sierra Leone,1.82,Africa
+Singapore,1.45,Asia
+Sint Maarten,1.91,
+Slovakia,2.51,Europe
+Slovenia,3.07,Europe
+Solomon Islands,1.62,Oceania
+Somalia,2.14,Africa
+South Africa,1.23,Africa
+South Georgia and the South Sandwich Isla,1.85,
+South Korea,2.00,Asia
+Spain,2.57,Europe
+Sri Lanka,1.37,Asia
+Sudan,2.04,Africa
+Suriname,1.75,South America
+Svalbard and Jan Mayen,5.45,Europe
+Swaziland,1.43,Africa
+Sweden,2.95,Europe
+Switzerland,2.83,Europe
+Syria,1.95,Asia
+Taiwan,1.46,Asia
+Tajikistan,2.66,Asia
+Tanzania,1.98,Africa
+Thailand,1.07,Asia
+Timor-Leste,0.90,Asia
+Togo,1.75,Africa
+Tonga,1.34,
+Trinidad and Tobago,1.60,South America
+Tunisia,3.12,Africa
+Turkey,1.60,Asia
+Turkmenistan,3.19,Asia
+Turks and Caicas Islands,1.50,
+Uganda,1.78,Africa
+Ukraine,2.66,Europe
+United Arab Emirates,3.36,Asia
+United Kingdom,2.30,Europe
+United Kingdom (Europe),2.35,Europe
+United States,2.36,North America
+Uruguay,1.56,South America
+Uzbekistan,2.72,Asia
+Venezuela,1.33,South America
+Vietnam,0.91,Asia
+Virgin Islands,1.88,
+Western Sahara,2.49,Africa
+Yemen,2.50,Asia
+Zambia,1.77,Africa
+Zimbabwe,1.50,Africa

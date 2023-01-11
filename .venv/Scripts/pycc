@@ -1,0 +1,3 @@
+#!C:\Users\User\Documents\VSCode\climate_change_project\.venv\Scripts\python.exe
+from numba.pycc import main
+main()
