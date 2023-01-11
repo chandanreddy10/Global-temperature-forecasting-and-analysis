@@ -10,5 +10,4 @@
 ### Data folder contains all the data that was used for the entire project. data_collection_scripts contain the code to fetch the data from the website. files folder contain all the notebooks and python files used for the project.<br>
 ### The project is extensive. It allows you to look how each country is contributing to the global warming. project also contains the total emissions, sea level rise and temperature rise in any given year. It also includes the model which forecasts the value given year. 
 
-### Tools used.
-### | sktime | pandas | matplotlib | beautiful soup | numpy | streamlit |.
+### Libraries used.<br>| sktime | pandas | matplotlib | beautiful soup | numpy | streamlit |
