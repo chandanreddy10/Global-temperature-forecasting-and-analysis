@@ -5,6 +5,7 @@ import helper_functions
 st.set_page_config(page_title='Project report',layout='wide')
 st.title("Project Report on :violet[Global temperature forecasting] and :blue[analysis.]")
 
+st.header("The cost of climate change is a whopping :red[$525 billon]")
 #container for slide bar and metrics
 with st.container():
     year = st.slider(label='Select Year',min_value=1993, max_value=2021,value=2019,help='select the year to output metrics.')
